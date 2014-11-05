@@ -7,7 +7,7 @@ presentazione realizzata con [impress.js](http://bartaz.github.io/impress.js/#/b
 - ciao
 - [leaff](http://leaff.it/) e il [famo.us meetup](http://www.meetup.com/FamousinItaly/)
 - demo [periodic table](http://periodic.famo.us/)
-- [steave](https://www.linkedin.com/in/stevenewcomb)
+- [steve](https://www.linkedin.com/in/stevenewcomb)
 
 ###intro
 - le [promesse](http://desarrolloweb.dlsi.ua.es/cursos/2011/html5-css3/) [dell'](http://www.forbes.com/sites/tomiogeron/2011/08/16/linkedin-revamps-iphone-android-apps-launches-html5-app/) [html5](http://venturebeat.com/2011/01/25/facebook-bret-taylor-html5/)
